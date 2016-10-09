@@ -1,0 +1,21 @@
+{
+  "name": "pictonic",
+  "homepage": "https://github.com/saeidscorp/pictonic-free",
+  "authors": [
+    "Saeid Akbari <saeidscorp@yahoo.com>"
+  ],
+  "description": "The free Pictonic icon fonts package to use with bower.",
+  "main": "css/pictonic.css",
+  "keywords": [
+    "fonts",
+    "icons"
+  ],
+  "license": "UNKNOWN",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
